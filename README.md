@@ -1,6 +1,7 @@
-Lab07
+# CS102_lab07
 
 Data Structures
+---------------
 
 (a) Before starting the lab, go to GitHub by using your account and create your private repositories called CS102_lab07. Whenever you are done with one of the following parts of the lab you will need to add all of your changes, commit them and push them to the remote repository. Make sure that your repositories are indeed private because if they are not then anyone on the web will be able to copy your homework, which will get you into trouble.
 
